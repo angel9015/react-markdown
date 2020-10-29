@@ -48,10 +48,6 @@
     "unist-util-visit": "^2.0.0",
     "xtend": "^4.0.1"
   },
-  "peerDependencies": {
-    "@types/react": "^15.0.0 || ^16.0.0",
-    "react": "^15.0.0 || ^16.0.0"
-  },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
